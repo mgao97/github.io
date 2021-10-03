@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+## Min Gao's Homepage
 
-You can use the [editor on GitHub](https://github.com/mgao97/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Home
+I am a PH.D. student within the School of Computer Science at fudan University. My research intrests include online/mobile social networks, social science, complex networks. (E-mail: mgao21@m.fudan.edu.cn)
 
 ```markdown
 Syntax highlighted code block
