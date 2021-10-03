@@ -1,32 +1,41 @@
 ## Min Gao's Homepage
 
 ### Home
-I am a PH.D. student within the School of Computer Science at fudan University. My research intrests include online/mobile social networks, social science, complex networks. (E-mail: mgao21@m.fudan.edu.cn)
+I am a PhD student within the School of Computer Science at fudan University. My research intrests include online/mobile social networks, social computing, complex networks. (E-mail: mgao21@m.fudan.edu.cn)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+**PhD** (Sept. 2021 - present)
+School of Computer Science, Fudan University
+Advisor: Associate Professor, Yang Chen
 
-**Bold** and _Italic_ and `Code` text
+**Master** (Sept. 2018 - Jun. 2021)
+College of Computer and Cyber Security, Fujian Normal University
+Advisor: Professor, Li Xu
 
-[Link](url) and ![Image](src)
-```
+**Bachelor** (Sept. 2014 - Jun. 2018)
+College of Mathmetics and Information Science, Anshan Normal University
+GPA: 3.93
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Publication
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgao97/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Understanding Scholar Social Networks: Taking SCHOLAT as An Example.
+Min Gao, Yang Chen*, Qingyuan Gong, Xin Wang, Pan Hui.
+Proc. of the 16th CCF Chinese Conference on Computer Supported Cooperative Work (ChineseCSCW’21), Xiangtan, China, Nov. 2021.
 
-### Support or Contact
+- User tag weight assessment based on fuzzy theory in mobile social networks.
+  Min Gao, Li Xu, Xiaoding Wang, Xinxin Zhang. 2021.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Influence maximization based on activity degree in mobile social networks.
+  Min Gao, Li Xu*, Limei Lin, Yanze Huang, Xinxin Zhang. 
+  Concurrency and Computation: Practice and Experience 32.11 (2020): e5677.
+  
+- An Efficient Influence Maximization Algorithm Based on Social Relationship Priority in Mobile Social Networks.
+  Xinxin Zhang, Li Xu, Min Gao. Proc. of the International Symposium on Security and Privacy in Social Networks and Big Data. Springer, Singapore, 2020.
+  
+
+
+
