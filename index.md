@@ -8,21 +8,15 @@ I am a PhD student within the School of Computer Science at fudan University. My
 ### Education
 
 **PhD** (Sept. 2021 - present)
-
-School of Computer Science, Fudan University
-
+School of Computer Science, Fudan University 
 Advisor: Associate Professor, Yang Chen
 
 **Master** (Sept. 2018 - Jun. 2021)
-
-College of Computer and Cyber Security, Fujian Normal University
-
+College of Computer and Cyber Security, Fujian Normal University 
 Advisor: Professor, Li Xu
 
 **Bachelor** (Sept. 2014 - Jun. 2018)
-
-College of Mathmetics and Information Science, Anshan Normal University
-
+College of Mathmetics and Information Science, Anshan Normal University 
 GPA: 3.93
 
 
