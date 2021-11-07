@@ -28,8 +28,8 @@ GPA: 3.93
 
 ### Publication
 
-**Understanding Scholar Social Networks: Taking SCHOLAT as An Example.** \<bar>
-**Min Gao**, Yang Chen*, Qingyuan Gong, Xin Wang, Pan Hui.\<bar>
+**Understanding Scholar Social Networks: Taking SCHOLAT as An Example.** \bar>
+**Min Gao**, Yang Chen*, Qingyuan Gong, Xin Wang, Pan Hui.\bar>
 Proc. of the 16th CCF Chinese Conference on Computer Supported Cooperative Work (ChineseCSCW’21), Xiangtan, China, Nov. 2021.
 
 **Influence maximization based on activity degree in mobile social networks.**
