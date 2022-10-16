@@ -18,9 +18,9 @@ GPA: 3.93
 
 ## Publication
 
-**Account Takeover Detection on E-Commerce Platforms.**
-**Min Gao**
-Proc. of the International Conference on Smart Computing (SMARTCOMP'22), Espoo, Finland, Jun. 2022.
+**Account Takeover Detection on E-Commerce Platforms.**  
+**Min Gao**  
+Proc. of the International Conference on Smart Computing (SMARTCOMP'22), Espoo, Finland, Jun. 2022.  
 [LINK](https://ieeexplore.ieee.org/abstract/document/9821104)
 
 **Understanding Scholar Social Networks: Taking SCHOLAT as An Example.**  
