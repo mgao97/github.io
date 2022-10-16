@@ -18,6 +18,11 @@ GPA: 3.93
 
 ## Publication
 
+**Account Takeover Detection on E-Commerce Platforms.**
+**Min Gao**
+Proc. of the International Conference on Smart Computing (SMARTCOMP'22), Espoo, Finland, Jun. 2022.
+[LINK](https://ieeexplore.ieee.org/abstract/document/9821104)
+
 **Understanding Scholar Social Networks: Taking SCHOLAT as An Example.**  
 **Min Gao**, Yang Chen*, Qingyuan Gong, Xin Wang, Pan Hui.  
 Proc. of the 16th CCF Chinese Conference on Computer Supported Cooperative Work (ChineseCSCW’21), Xiangtan, China, Nov. 2021.  
