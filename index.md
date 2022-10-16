@@ -26,12 +26,12 @@ Proc. of the International Conference on Smart Computing (SMARTCOMP'22), Espoo, 
 **Understanding Scholar Social Networks: Taking SCHOLAT as An Example.**  
 **Min Gao**, Yang Chen*, Qingyuan Gong, Xin Wang, Pan Hui.  
 Proc. of the 16th CCF Chinese Conference on Computer Supported Cooperative Work (ChineseCSCW’21), Xiangtan, China, Nov. 2021.  
-[PDF](Understanding_Scholar_Social_Networks__Taking_SCHOLAT_as_An_Example.pdf)
+[LINK](https://user.informatik.uni-goettingen.de/~ychen/papers/SCHOLAT-ChineseCSCW21.pdf)
 
 **Influence maximization based on activity degree in mobile social networks.**  
 **Min Gao**, Li Xu*, Limei Lin, Yanze Huang, Xinxin Zhang.  
 Concurrency and Computation: Practice and Experience 32.11 (2020): e5677.  
-[PDF](Influence maximization based on activity degree in mobile social networks.pdf)
+[LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5677)
   
 **An Efficient Influence Maximization Algorithm Based on Social Relationship Priority in Mobile Social Networks.**  
 Xinxin Zhang, Li Xu*, **Min Gao**.  
