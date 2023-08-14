@@ -1,6 +1,6 @@
 # Min Gao's Homepage
 ## Home
-I am a PhD student within the School of Computer Science at Fudan University. My research intrests include online/mobile social networks, social computing, complex networks. (E-mail: mgao21@m.fudan.edu.cn)
+I am a PhD student within the School of Computer Science at Fudan University. My research interests include online/mobile social networks, social computing, complex networks. (E-mail: mgao21@m.fudan.edu.cn)
 
 ## Education
 
