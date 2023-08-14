@@ -18,6 +18,12 @@ GPA: 3.93
 
 ## Publication
 
+**EasyGraph: A Multifunctional, Cross-Platform, and Effective Library for Interdisciplinary Network Analysis.**
+
+**Min Gao**, Zheng Li, Ruichen Li, Chenhao Cui, Xinyuan Chen, Bodian Ye, Yupeng Li, Weiwei Gu, Qingyuan Gong, Xin Wang, and Yang Chen.
+To appear: Patterns (Cell Press).
+[[PROJECT](https://easy-graph.github.io/)|[CODE](https://github.com/easy-graph/Easy-Graph)]
+
 **Account Takeover Detection on E-Commerce Platforms.**  
 **Min Gao**  
 Proc. of the International Conference on Smart Computing (SMARTCOMP'22), Espoo, Finland, Jun. 2022.  
