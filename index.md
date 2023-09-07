@@ -22,7 +22,7 @@ GPA: 3.93
 
 **Min Gao**, Zheng Li, Ruichen Li, Chenhao Cui, Xinyuan Chen, Bodian Ye, Yupeng Li, Weiwei Gu, Qingyuan Gong, Xin Wang, and Yang Chen.
 To appear: Patterns (Cell Press).
-[[PROJECT](https://easy-graph.github.io/)|[CODE](https://github.com/easy-graph/Easy-Graph)]
+[[PAPER](https://www.cell.com/patterns/pdf/S2666-3899(23)00218-0.pdf)|[PROJECT](https://easy-graph.github.io/)|[CODE](https://github.com/easy-graph/Easy-Graph)]
 
 **Account Takeover Detection on E-Commerce Platforms.**  
 **Min Gao**  
