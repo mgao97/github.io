@@ -1,6 +1,6 @@
 # Min Gao's Homepage
 ## Home
-I am a PhD student within the School of Computer Science at Fudan University. My research interests include network science, social computing, machine learning, and fraud detection. (E-mail: mgao21@m.fudan.edu.cn)
+I am a PhD student within the School of Computer Science at Fudan University. My research interests include network science, social computing, graph learning, and fraud detection. (E-mail: mgao21@m.fudan.edu.cn)
 
 ## Education
 
@@ -44,6 +44,7 @@ Xinxin Zhang, Li Xu*, **Min Gao**.
 Proc. of the International Symposium on Security and Privacy in Social Networks and Big Data. Springer, Singapore, 2020.  
 [PAPER](https://link.springer.com/chapter/10.1007/978-981-15-9031-3_15)
   
-
-
+## Projects
+**EasyGraph: A Multifunctional, Cross-Platform, and Effective Library for Interdisciplinary Network Analysis.**
+Supporting a series of network analysis functions with an outstanding performance. 
 
